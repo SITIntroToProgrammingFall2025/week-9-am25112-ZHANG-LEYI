@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main() 
@@ -24,6 +25,7 @@ int main()
  printf("Determinant is %lf\n", d);
  return 0;
 }
+
 
 
 
